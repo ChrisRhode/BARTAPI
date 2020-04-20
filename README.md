@@ -5,6 +5,6 @@ The data is pulled in JSON format and deserialized into classes using NewtonSoft
 The JSON data from BART contains special characters e.g. @ that cause issues for NewtonSoft.JSON / embedding into C#.NET so
 there is a thick client (Windows Forms) helper program to deal with cleaning up the JSON data (source is in PollWebServiceTest folder)
 
-http://www.zoggoth2.com/BARTAPI/ScheduleForStation.aspx (source is in BARTAPI folder)
+http://www.zoggoth2.com/BARTAPI/ScheduleForStation.aspx (source is in BARTInfo folder)
 
 

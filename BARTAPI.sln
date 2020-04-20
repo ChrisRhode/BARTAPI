@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollWebServiceTest", "PollWebServiceTest\PollWebServiceTest.csproj", "{1B892322-60AC-40EC-A498-11D493E16CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BARTInfo", "BARTInfo\BARTInfo.csproj", "{F65C0185-9A00-4DF7-8399-454B1A133124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B892322-60AC-40EC-A498-11D493E16CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B892322-60AC-40EC-A498-11D493E16CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B892322-60AC-40EC-A498-11D493E16CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B892322-60AC-40EC-A498-11D493E16CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65C0185-9A00-4DF7-8399-454B1A133124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65C0185-9A00-4DF7-8399-454B1A133124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65C0185-9A00-4DF7-8399-454B1A133124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65C0185-9A00-4DF7-8399-454B1A133124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC915FB1-E86B-497B-9A7B-22E21C151A7C}
+	EndGlobalSection
+EndGlobal
